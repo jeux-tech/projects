@@ -27,7 +27,7 @@ const StyledPageHeader = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: ${theme.spacing(2, 3)};
+  padding: ${theme.spacing(2, 4)};
 `;
 
 const MyNotes = ({ view }: Props) => {
